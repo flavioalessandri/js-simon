@@ -1,0 +1,47 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+h1{
+  text-align: center;
+  background-color: lightgreen;
+  color: white;
+}
+
+
+
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+
+/* .hidden{
+  display: none;
+} */
+
+
+
+.blue{
+  color:lightblue;
+}
+.green{
+  color:lightgreen;
+}
+
+.circle{
+  position: absolute;
+  top:100px;
+  left:300px;
+  background-color: rgba(61,64,91,.9);
+  text-align: center;
+  font-size: 12px;
+  line-height: 90px;
+
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+
+}
